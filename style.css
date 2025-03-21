@@ -1,0 +1,11 @@
+#p1{
+    color:rgb(223, 30, 30);
+    font-size: 24px;
+    text-align: center;
+}
+.contenedor{
+    width: 500px;
+    height: 550px;
+    background-color: rgba(44, 56, 233, 0.993);
+    border-radius: 8px;
+}
